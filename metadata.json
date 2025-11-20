@@ -1,0 +1,7 @@
+{
+  "name": "GreenThumb - Plant Guide & AI",
+  "description": "Your personal gardening assistant. Identify plants instantly from photos and chat with an expert AI botanist for care advice.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
